@@ -1,4 +1,4 @@
-# Adaptive Pyramid Context Network for Semantic Segmentation (APCNet)
+# Adaptive Pyramid Context Network for Semantic Segmentation (APCNet CVPR'2019)
 
 ## Introduction
 
